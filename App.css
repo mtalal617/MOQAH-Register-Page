@@ -1,0 +1,16 @@
+/* src/App.css */
+
+/* Ensure box-sizing is border-box for all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Basic global styles */
+body 
+{
+  background-color: 'red';
+  font-family: 'Inter', sans-serif;
+}
+
